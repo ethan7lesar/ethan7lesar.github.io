@@ -1,5 +1,4 @@
-{
-    "products": [
+[
         {
             "id": 1,
             "catergory": "rolex",
@@ -129,4 +128,3 @@
             "quantity": 5
         }
     ]
-}
