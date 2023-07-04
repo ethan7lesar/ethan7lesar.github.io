@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Luxury Watch Store",
+    "liveLink": "https://grey-matter-777.netlify.app/",
+    "githubLink": "https://github.com/ethan7lesar/EOMP_JS_EthanL"
+  },
+  {
+    "id": 2,
+    "name": "Electronics Store",
+    "liveLink": "https://radiant-pixie-309cc4.netlify.app/",
+    "githubLink": "https://github.com/ethan7lesar/E-ComSiteEthan"
+  },
+  {
+    "id": 3,
+    "name": "Bootstrap Portfolio",
+    "liveLink": "https://melodic-hamster-b3ae3e.netlify.app/",
+    "githubLink": "https://github.com/ethan7lesar/Ethan_Lesar_Portfolio"
+  },
+  {
+    "id": 4,
+    "name": "Hulu Clone",
+    "liveLink": "https://reliable-melba-5a46f0.netlify.app/",
+    "githubLink": "https://github.com/ethan7lesar/Html-Basics"
+  },
+  {
+    "id": 5,
+    "name": "Light E-Com Store",
+    "liveLink": "https://ephemeral-kulfi-5ec038.netlify.app/",
+    "githubLink": "https://github.com/ethan7lesar/E-CommerseSTR"
+  },
+  {
+    "id": 6,
+    "name": "BMI Calculator",
+    "liveLink": "https://papaya-centaur-2a7ccd.netlify.app/",
+    "githubLink": "https://github.com/ethan7lesar/Javascript_BMI"
+  }
+]

@@ -1,27 +1,27 @@
 [
-    {
-        "id": 1,
-        "skill": "html",
-        "level": 85
-    },
-    {
-        "id": 1,
-        "skill": "html",
-        "level": 85
-    },
-    {
-        "id": 1,
-        "skill": "html",
-        "level": 85
-    },
-    {
-        "id": 1,
-        "skill": "html",
-        "level": 85
-    },
-    {
-        "id": 1,
-        "skill": "html",
-        "level": 85
-    }
+  {
+    "id": 1,
+    "skill": "html",
+    "level": 90
+  },
+  {
+    "id": 2,
+    "skill": "css",
+    "level": 85
+  },
+  {
+    "id": 3,
+    "skill": "JS",
+    "level": 60
+  },
+  {
+    "id": 4,
+    "skill": "Java",
+    "level": 85
+  },
+  {
+    "id": 5,
+    "skill": "VueJS",
+    "level": 45
+  }
 ]

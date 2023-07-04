@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "institute": "Claremont High School",
+    "course": "Matric",
+    "year": "2019",
+    "modules": "Mathematics & Physical Science"
+  },
+  {
+    "id": 2,
+    "institute": "Cape Penisuala University Of Technology",
+    "course": "2nd Year AppDev",
+    "year": "2021",
+    "modules": "Java"
+  },
+  {
+    "id": 3,
+    "institute": "Life Choices Achedemy",
+    "course": "Web Development",
+    "year": "Present",
+    "modules": "HTML CSS JAVASCRIPT"
+  }
+]

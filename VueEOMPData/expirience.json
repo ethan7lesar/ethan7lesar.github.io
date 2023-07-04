@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "LionLead Real Estate",
+    "position": "Intern Real Estate Agent",
+    "year": "2021",
+    "role": "Cold Calling, Managing Clients and Viewings"
+  },
+  {
+    "id": 2,
+    "name": "Quay1 International Realty",
+    "position": "Relationship Manager",
+    "year": "2022",
+    "role": "Cold Calling, Managing Clients"
+  },
+  {
+    "id": 3,
+    "name": "Allied Media Distributer",
+    "position": "Promoter",
+    "year": "2018",
+    "role": "Promoting Products and services via sporting events"
+  }
+]
