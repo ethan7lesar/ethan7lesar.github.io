@@ -1,6 +1,7 @@
 [
   {
     "id": 1,
+    "image": "https://postimg.cc/Z0zgKYSN",
     "name": "LionLead Real Estate",
     "position": "Intern Real Estate Agent",
     "year": "2021",
@@ -8,6 +9,7 @@
   },
   {
     "id": 2,
+    "image": "https://i.postimg.cc/ZYXzMZ14/facebook-logo-1.jpg",
     "name": "Quay1 International Realty",
     "position": "Relationship Manager",
     "year": "2022",
@@ -15,6 +17,7 @@
   },
   {
     "id": 3,
+    "image": "https://i.postimg.cc/7hF9MKtr/download.png",
     "name": "Allied Media Distributer",
     "position": "Promoter",
     "year": "2018",
