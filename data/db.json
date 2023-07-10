@@ -1,4 +1,5 @@
-[
+{
+    "products": [
         {
             "id": 1,
             "catergory": "rolex",
@@ -20,7 +21,7 @@
             "catergory": "rolex",
             "Image": "https://i.postimg.cc/kG3X3Js1/m126234-0051-collection-upright-portrait-1-removebg-preview.png",
             "name": "Rolex DateJust 40mm",
-            "price":"185000",
+            "price": "185000",
             "quantity": 5
         },
         {
@@ -128,3 +129,4 @@
             "quantity": 5
         }
     ]
+}
